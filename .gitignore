@@ -1,0 +1,8 @@
+  
+target/
+**/static/
+
+### IntelliJ IDEA ###
+.idea
+*.iml
+build/
